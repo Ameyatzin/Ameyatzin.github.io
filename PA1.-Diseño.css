@@ -1,0 +1,213 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    width: 1500px;
+    height: 500px;
+    background-color: aquamarine;
+    margin: 50px 10px;
+    text-align: center;
+}
+#Cabecera
+{
+    width: 1343px;
+    height: 300px;
+    background-color: darksalmon;
+    margin: 0px 0px 100px 0px;
+}
+#Cont1
+{
+    width: 300px;
+    height: 250px;
+    background-color: cadetblue;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 20px 40px;
+}
+#Cont2
+{
+    width: 63.7%;
+    height: 234px;
+    background-color: rgb(133, 133, 6);
+    display: inline-block;
+    position: relative;
+    top: -25px;
+    margin: 50px 0px 50px 50px;
+}
+#Control1
+{
+    width: 33%;
+    height: 75px;
+    background-color: rgb(167, 236, 102);
+    display: inline-block;
+}
+#Control2
+{
+    width: 33%;
+    height: 75px;
+    background-color: rgb(135, 222, 208);
+    display: inline-block;
+}
+#Control3
+{
+    width: 33%;
+    height: 75px;
+    background-color: rgb(222, 135, 147);
+    display: inline-block;
+}
+#Control4
+{
+    width: 33%;
+    height: 75px;
+    background-color: rgb(252, 179, 207);
+    display: inline-block;
+}
+#Control5
+{
+    width: 33%;
+    height: 75px;
+    background-color: rgb(245, 243, 112);
+    display: inline-block;
+}
+#Control6
+{
+    width: 33%;
+    height: 75px;
+    background-color: rgb(160, 222, 135);
+    display: inline-block;
+}
+#Control7
+{
+    width: 33%;
+    height: 75px;
+    background-color: rgb(135, 195, 222);
+    display: inline-block;
+}
+#Control8
+{
+    width: 33%;
+    height: 75px;
+    background-color: rgb(222, 135, 210);
+    display: inline-block;
+}
+#Control9
+{
+    width: 33%;
+    height: 75px;
+    background-color: rgb(201, 120, 15);
+    display: inline-block;
+}
+#Contenido
+{
+    width: 1343px;
+    height: 800px;
+    background-color: lightpink;
+    margin: 100px 0px 100px 0px;
+    text-align: center;
+}
+#cajon1
+{
+    width: 640px;
+    height: 370px;
+    background-color: rgb(0, 255, 115);
+    margin: 15px 0px -4px -5px;
+    display: inline-block;
+}
+#cajon2
+{
+    width: 640px;
+    height: 370px;
+    background-color: rgb(15, 201, 31);
+    margin: 15px 0px -4px -5px;
+    display: inline-block;
+}
+#conte1
+{
+    width: 300px;
+    height: 376px;
+    background-color: rgb(15, 158, 201);
+    display: inline-block;
+    margin: 0px -3px;
+}
+#conte2
+{
+    width: 300px;
+    height: 376px;
+    background-color: rgb(246, 255, 117);
+    display: inline-block;
+    margin: 0px -2px;
+}
+#conte3
+{
+    width: 300px;
+    height: 376px;
+    background-color: rgb(205, 108, 243);
+    display: inline-block;
+    margin: 0px -3px;
+}
+#Referencia
+{
+    width: 1343px;
+    height: 200px;
+    background-color: lightcoral;
+    margin: 100px 0px 0px 0px;
+    text-align: center;
+}
+#Circulo1
+{
+    width: 150px;
+    height: 150px;
+    background-color: blueviolet;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 25px 50px;
+}
+#Circulo2
+{
+    width: 150px;
+    height: 150px;
+    background-color: cornflowerblue;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 25px 50px;
+}
+#Circulo3
+{
+    width: 150px;
+    height: 150px;
+    background-color: coral;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 25px 50px;
+}
+#Circulo4
+{
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 25px 50px;
+}
+#Circulo5
+{
+    width: 150px;
+    height: 150px;
+    background-color: darkolivegreen;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 25px 50px;
+}
+
+
+.btn-volver
+{
+  display: inline-block;
+  padding: 12px 30px;
+  background-color: rgb(212, 96, 223);
+  color: #fff;
+  border-radius: 50px;
+}

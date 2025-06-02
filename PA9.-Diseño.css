@@ -1,0 +1,323 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#pagina
+{
+    width: 1200px;
+    height: 1570px;
+    background-color: rgb(134, 66, 143);
+    border: 2px black solid;
+    margin: 25px auto;
+}
+/* CONTENEDOR 1////////////////////////////////////////////////////////////////////////////////// */
+#contenedor1
+{
+    width: 98%;
+    height: 700px;
+    background-color: rgb(240, 200, 147);
+    margin: 10px;
+    display: inline-block;
+}
+#lineas
+{
+    display: inline-block;
+}
+    #l1
+    {
+        width: 40px;
+        height: 70px;
+        background-color: rgb(143, 90, 20);
+        margin: 15px;
+        display: inline-block;
+    }
+    #l2
+    {
+        width: 996px;
+        height: 70px;
+        background-color: rgb(184, 121, 38);
+        margin: 15px;
+        display: inline-block;
+    }
+    #l3
+    {
+        width: 40px;
+        height: 70px;
+        background-color: rgb(143, 90, 20);
+        margin: 15px;
+        display: inline-block;
+    }
+#bajo
+{
+    display: inline-flex;
+}
+#rec1
+{
+    width: 250px;
+    height: 560px;
+    background-color: rgb(120, 193, 241);
+    margin: 15px;  
+    display: inline-block;
+}
+    #cir1
+    {
+        width: 140px;
+        height: 140px;
+        background-color: rgb(211, 122, 252);
+        border-radius: 50%;
+        margin: 10px 50px; 
+        display: inline-block;
+    }
+    #rectangulitos
+    {
+        width: 220px;
+        height: 40px;
+        background-color: rgb(162, 39, 199);
+        margin: 15px;  
+    }
+    #cir2
+    {
+        width: 140px;
+        height: 140px;
+        background-color: rgb(211, 122, 252);
+        border-radius: 50%;
+        margin: 10px 50px; 
+        display: inline-block;
+    }
+#medio
+{
+    display: inline-block;
+    text-align: center;
+}
+        #rec2
+        {
+            width: 645px;
+            height: 200px;
+            background-color: rgb(241, 169, 169);
+            margin-top: 15px;  
+        }
+        #cin
+        {
+            width: 70px;
+            height: 150px;
+            background-color: rgb(240, 106, 162);
+            border-radius: 50%;
+            margin: 20px 5px; 
+            display: inline-block;
+        }
+            #lns
+            {
+                text-align: center;
+                display: inline-block;
+            }
+                #line
+                {
+                    width: 270px;
+                    height: 30px;
+                    background-color: rgb(252, 101, 126);
+                    margin: 16px;  
+                }
+                #circulos
+                {
+                    width: 285px;
+                    height: 285px;
+                    background-color: rgb(100, 236, 88);
+                    border-radius: 50%;
+                    margin: 40px 10px; 
+                    display: inline-block;
+                }
+#rec3
+{
+    width: 220px;
+    height: 560px;
+    background-color: rgb(247, 180, 93);
+    margin: 15px;  
+    display: inline-block;
+}
+    #las
+    {
+        width: 185px;
+        height: 390px;
+        background-color: rgb(245, 235, 101);
+        margin: 15px;  
+        display: inline-block;
+    }
+    #retaa
+    {
+        width: 150px;
+        height: 20px;
+        background-color: rgb(125, 148, 21);
+        margin: 17px;  
+    }
+    #cii
+    {
+        width: 120px;
+        height: 120px;
+        background-color: rgb(120, 122, 8);
+        border-radius: 50%;
+        margin: 5px 50px; 
+        display: inline-block;
+    }
+/* ///////////////////////////////////////////////////////////////////////// */
+#dosconte
+{
+    margin: 10px;
+}
+/* CONTENEDOR 2////////////////////////////////////////////////////////////////////////////////// */
+#contenedor2
+{
+    width: 49%;
+    height: 825px;
+    background-color: rgb(240, 200, 147);
+    margin: 0px 7px 0px 0px;
+    display: inline-block;
+
+}
+        #circu1
+        {
+            width: 500px;
+            height: 500px;
+            background-color: rgb(252, 158, 231);
+            border-radius: 50%;
+            margin: 40px; 
+            display: inline-block;
+        }
+            #circu2
+            {
+                width: 400px;
+                height: 400px;
+                background-color: rgb(122, 245, 132);
+                border-radius: 50%;
+                margin: 50px; 
+                display: inline-block;
+            }
+                #circu3
+                {
+                    width: 300px;
+                    height: 300px;
+                    background-color: rgb(240, 114, 141);
+                    border-radius: 50%;
+                    margin: 50px; 
+                    display: inline-block;
+                }
+                    #circu4
+                    {
+                        width: 200px;
+                        height: 200px;
+                        background-color: rgb(250, 250, 228);
+                        border-radius: 50%;
+                        margin: 50px; 
+                        display: inline-block;
+                    }
+                        #circu5
+                        {
+                            width: 100px;
+                            height: 100px;
+                            background-color: rgb(180, 124, 243);
+                            border-radius: 50%;
+                            margin: 50px; 
+                            display: inline-block;
+                        }
+
+    #reta1
+    {
+        text-align: center;
+    }
+        #reta
+        {
+            width: 255px;
+            height: 30px;
+            background-color: rgb(99, 96, 96);
+            margin: 13px 15px; 
+            display: inline-block;
+        }
+    #reta2
+    {
+        text-align: center;
+    }
+        #retas
+        {
+            width: 255px;
+            height: 30px;
+            background-color: rgb(99, 96, 96);
+            margin: 13px 15px; 
+            display: inline-block;
+        }
+/* CONTENEDOR 3////////////////////////////////////////////////////////////////////////////////// */
+#contenedor3
+{
+    width: 49%;
+    height: 825px;
+    background-color: rgb(240, 200, 147);
+    display: inline-block;
+    margin: 0px 0px 0px 7px;
+}
+    #circudeult1
+    {
+        width: 500px;
+        height: 500px;
+        background-color: rgb(241, 140, 140);
+        border-radius: 50%;
+        margin: 40px; 
+        display: inline-block;
+    }
+        #circudeult2
+        {
+            width: 400px;
+            height: 400px;
+            background-color: rgb(238, 240, 139);
+            border-radius: 50%;
+            margin: 50px; 
+            display: inline-block;
+        }
+            #circudeult3
+            {
+                width: 300px;
+                height: 300px;
+                background-color: rgb(121, 250, 190);
+                border-radius: 50%;
+                margin: 50px; 
+                display: inline-block;
+            }
+                #circudeult4
+                {
+                    width: 200px;
+                    height: 200px;
+                    background-color: rgb(245, 173, 239);
+                    border-radius: 50%;
+                    margin: 50px; 
+                    display: inline-block;
+                }
+                    #circudeult5
+                    {
+                        width: 100px;
+                        height: 100px;
+                        background-color: rgb(223, 243, 234);
+                        border-radius: 50%;
+                        margin: 50px; 
+                        display: inline-block;
+                    }
+    #circulis
+    {
+        text-align: center;
+    }   
+        #circulitosulti
+        {
+            width: 120px;
+            height: 120px;
+            background-color: rgb(228, 57, 185);
+            border-radius: 50%;
+            margin: 57px 10px; 
+            display: inline-block;
+        } 
+
+        
+.btn-volver
+{
+  display: inline-block;
+  padding: 12px 30px;
+  background-color: rgb(212, 96, 223);
+  color: #fff;
+  border-radius: 50px;
+}

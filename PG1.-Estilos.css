@@ -1,0 +1,40 @@
+/* Modificando la cabeza de mi pagina */
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#cabeza
+{
+    background-color: darkseagreen;
+    /* Es necesario especificar el tamaño del contenedor */
+    width:  10%;
+    height: 50px;
+    margin: 10px auto;
+}
+/* Modificado el cuerpo de mi página */
+#cuerpo
+{
+    background-color: mediumorchid;
+    width: 60%;
+    height: 500px;
+    margin: 10px auto;
+}
+/* Modificando el pie de mi página */
+#pie
+{
+    background-color: aquamarine;
+    width: 20%;
+    height: 100px;
+    margin: auto;
+}
+
+
+.btn-volver
+{
+  display: inline-block;
+  padding: 12px 30px;
+  background-color: rgb(212, 96, 223);
+  color: #fff;
+  border-radius: 50px;
+}

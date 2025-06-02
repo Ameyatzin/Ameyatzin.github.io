@@ -1,0 +1,50 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{   
+    width: 1500px;
+    height: 500px;
+    background-color: rgb(234, 127, 255);
+    margin: 50px 10px;
+    text-align: center;
+}
+#cabeza
+{
+    width: 97%;
+    height: 300px;
+    background-color: rgb(222, 233, 122);
+    margin: 20px;
+}
+#ojos
+{
+    width: 97%;
+    height: 100px;
+    background-color: rgb(122, 233, 165);
+    margin: 20px;
+}
+#rodillas
+{
+    width: 97%;
+    height: 800px;
+    background-color: darksalmon;
+    margin: 20px;
+}
+#pies
+{
+    width: 97%;
+    height: 250px;
+    background-color: rgb(135, 233, 122);
+    margin: 20px;
+}
+
+.btn-volver
+{
+  display: inline-block;
+  padding: 12px 30px;
+  background-color: rgb(212, 96, 223);
+  color: #fff;
+  border-radius: 50px;
+}

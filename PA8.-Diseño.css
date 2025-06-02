@@ -1,0 +1,339 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#pagina
+{
+    width: 1100px;
+    height: 1500px;
+    background-color: rgb(252, 117, 191);
+    border: 3px black solid;
+    margin: 25px auto;
+}
+/* CONTENEDOR 1 //////////////////////////////////////////////////////////////////////////// */
+#contenedor1
+{
+    width: 98%;
+    height: 475px;
+    background-color: rgb(197, 127, 255);
+    margin: 10px;
+    display: inline-flex;
+}
+#contenido1
+{
+    width: 50%;
+    height: 450px;
+    background-color: rgb(127, 204, 255);
+    margin: 10px;
+    text-align: center;
+}
+    #uno
+    {
+        display: inline-flex;
+    }
+        #circus
+        {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            background-color: rgb(238, 94, 130);
+            margin: 5px 10px;
+        }
+        #rayas
+        {
+            text-align: center;
+           
+        }
+            #tresraya1
+            {
+                width: 230px;
+                height: 40px;
+                background-color: rgb(206, 255, 127);
+                margin: 11px;
+                text-align: center;
+            }
+            #tresraya2
+            {
+                width: 230px;
+                height: 40px;
+                background-color: rgb(206, 255, 127);
+                margin: 11px;
+                text-align: center;
+            }
+            #tresraya3
+            {
+                width: 230px;
+                height: 40px;
+                background-color: rgb(206, 255, 127);
+                margin: 11px;
+                text-align: center;
+            }
+        #circulitos6
+        {
+            text-align: center;
+            display: inline-block;
+        }
+        #circulitosu1
+        {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background-color: rgb(36, 151, 80);
+            margin: 10px 10px;  
+        }
+        #circulitosx3
+        {
+            text-align: center;
+        }
+        #circulitost2
+        {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background-color: rgb(36, 151, 80);
+            margin: 10px 10px;  
+        }
+    #cua
+    {
+        text-align: center;
+    }
+        #cuadraditos1
+        {
+            width: 50px;
+            height: 60px;
+            background-color: rgb(203, 88, 238);
+            margin: 15px 10px;
+            display: inline-block;
+        }
+    #circu7
+    {
+        text-align: center;
+    }
+        #circulitos2
+        {
+            width: 50px;
+            height: 80px;
+            border-radius: 50%;
+            background-color: rgb(96, 94, 238);
+            margin: 5px 10px;
+            display: inline-block;
+        }
+    #cua
+    {
+        text-align: center;
+    }
+        #cuadraditos2
+        {
+            width: 50px;
+            height: 60px;
+            background-color: rgb(203, 88, 238);
+            margin: 15px 10px;
+            display: inline-block;
+        }
+#contenido2
+{
+    text-align: center;
+}  
+    #linea1
+    {
+        width: 490px;
+        height: 50px;
+        background-color: rgb(206, 255, 127);
+        margin: 11px;
+        text-align: center;
+        display: inline-block;
+    }
+    #circulo1
+    {
+        width: 115px;
+        height: 115px;
+        border-radius: 50%;
+        background-color: rgb(246, 248, 93);
+        margin: 8px 200px;
+    }
+    #linea2
+    {
+        width: 490px;
+        height: 50px;
+        background-color: rgb(206, 255, 127);
+        margin: 10px;
+        text-align: center;
+    }
+    #circulos2
+    {
+        width: 115px;
+        height: 115px;
+        border-radius: 50%;
+        background-color: rgb(246, 248, 93);
+        margin: 8px 20px;
+        display: inline-block;
+    }
+    #linea3
+    {
+        width: 490px;
+        height: 50px;
+        background-color: rgb(206, 255, 127);
+        margin: 10px;
+        text-align: center;
+    }
+/* CONTENEDOR 2 //////////////////////////////////////////////////////////////////////////// */
+#contenedor2
+{
+    width: 98%;
+    height: 475px;
+    background-color: rgb(252, 155, 239);
+    margin: 10px;
+    display: inline-block;
+}
+#conte1
+{
+    width: 97.5%;
+    height: 60px;
+    background-color: rgb(246, 255, 127);
+    margin: 10px;
+}
+#conte2
+{
+    width: 97.5%;
+    height: 30px;
+    background-color: rgb(138, 255, 127);
+    margin: 10px;
+}
+#conte3
+{
+    text-align: center;
+    display: inline-flex;
+}
+    #a1
+    {
+        width: 215px;
+        height: 333px;
+        background-color: rgb(127, 140, 255);
+        margin: 10px;
+    }
+        #ucuadra
+        {
+            width: 160px;
+            height: 143px;
+            background-color: rgb(233, 94, 191);
+            margin: 8px 25px;  
+        }
+        #recta6
+        {
+            width: 180px;
+            height: 20px;
+            background-color: rgb(206, 255, 127);
+            margin: 8px 15px;
+            text-align: center;
+        }
+    #bb1
+    {
+        width: 600px;
+        height: 333px;
+        background-color: rgb(197, 127, 255);
+        margin: 10px;
+        display: inline-block;
+    }
+    #rectangu
+    {
+        width: 198px;
+        height: 76px;
+        background-color: rgb(255, 127, 133);
+        margin: 10px 10px;
+        text-align: center;
+    }
+        #lin1
+        {
+            width: 96%;
+            height: 60px;
+            background-color: rgb(255, 225, 127);
+            margin: 10px;
+            text-align: center;
+        }
+        #lin2
+        {
+            width: 96%;
+            height: 30px;
+            background-color: rgb(127, 255, 176);
+            margin: 10px;
+            text-align: center;
+        }
+        #lin3
+        {
+            width: 96%;
+            height: 30px;
+            background-color: rgb(142, 255, 127);
+            margin: 10px;
+            text-align: center;
+        }
+        #cir
+        {
+            width: 90px;
+            height: 90px;
+            border-radius: 50%;
+            background-color: rgb(248, 93, 202);
+            margin: 25px 5px;
+            display: inline-block;
+        }
+        #ret
+        {
+            width: 267px;
+            height: 130px;
+            background-color: rgb(127, 204, 255);
+            margin: 10px 3px;
+            display: inline-block;
+        }
+/* CONTENEDOR 3 //////////////////////////////////////////////////////////////////////////// */
+#contenedor3
+{
+    width: 98%;
+    height: 475px;
+    background-color: rgb(127, 193, 255);
+    margin: 10px;
+    text-align: center;
+}
+#cont1
+{
+    width: 60%;
+    height: 230px;
+    background-color: rgb(255, 204, 127);
+    display: inline-block;
+    text-align: center;
+    margin: 20px;
+}
+#cont2
+{
+    text-align: center;
+}
+    #cirus
+    {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        background-color: rgb(253, 94, 102);
+        margin: 5px 20px;
+        display: inline-block;
+    }
+#cont3
+{
+    text-align: center;
+}
+    #recta
+    {
+        width: 110px;
+        height: 36px;
+        background-color: rgb(233, 241, 120);
+        display: inline-block;
+        margin: 10px 25px;
+    }
+
+    
+.btn-volver
+{
+  display: inline-block;
+  padding: 12px 30px;
+  background-color: rgb(212, 96, 223);
+  color: #fff;
+  border-radius: 50px;
+}

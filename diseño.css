@@ -1,0 +1,150 @@
+#uno
+{
+    margin: 0;
+    padding: 0;
+    background: rgb(93, 123, 153);
+    display: flex;
+    justify-content: center;   
+    align-items: center;       
+    min-height: 100vh;        
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.datos
+{
+    background: rgb(244, 241, 247);
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    min-height: 600px;
+    box-sizing: border-box;
+}
+
+.fotoo
+{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 4px solid rgb(121, 203, 250);
+}
+
+
+/* Login ////////////////////////////////////////////////////////////////////////////////////////////////// */
+#dos
+{
+    margin: 0;
+    padding: 0;
+    background: rgb(233, 185, 248);
+    display: flex;
+    justify-content: center;   
+    align-items: center;       
+    min-height: 100vh;        
+    text-align: center;
+    box-sizing: border-box;
+}
+
+#login
+{
+    width: 800px;
+    height: 500px;
+    border: 2px solid black;
+    margin: 10px auto;
+    background-color: rgb(167, 127, 194);
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.dat
+{
+    background: rgb(244, 241, 247);
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    min-height: 600px;
+    box-sizing: border-box;
+}
+
+/* Menu ///////////////////////////////////////////////////////// */
+#tres
+{
+    margin: 0;
+    padding: 0;
+    background: rgb(233, 231, 147);
+    display: flex;
+    justify-content: center;   
+    align-items: center;       
+    min-height: 100vh;        
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.dropdown-center
+{
+    background: rgb(244, 241, 247);
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    width: 50%;
+    max-width: 500px;
+    height: auto;
+    min-height: 200px;
+    box-sizing: border-box;
+}
+
+.dropdown-menu
+{
+    border: 2px solid black;
+    margin: 20px auto;
+    background-color: rgb(107, 60, 138);
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+@media (max-width: 1400px) 
+{
+    #login 
+    {
+        width: 100%;
+        height: auto;
+    }
+
+    .dat 
+    {
+        width: 100%;
+        min-height: auto;
+        padding: 20px;
+    }
+
+    .dropdown-center 
+    {
+        width: 100%;
+        padding: 20px;
+        min-height: auto;
+    }
+}
+
+@media (max-width: 1400px) {
+    .fotoo 
+    {
+        width: 100px;
+        height: 100px;
+    }
+
+    .datos, .dat, .dropdown-center 
+    {
+        padding: 15px;
+        font-size: 0.95rem;
+    }
+
+    #login {
+        padding: 10px;
+        font-size: 0.9rem;
+    }
+}
